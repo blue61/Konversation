@@ -1,0 +1,10 @@
+The Zweck of this package
+The Domain is private communication for leisure activities, or at least that's where i feel the need.
+When communicating in private with my collegues in our running club 'Laufteam Unna' (see laufteamunna.de) i had the problem, that i wasn't sure whether i missed mails from them.
+I was then editing the club's internal news, in print and paper, during the Corona Lockdown only digital.
+So one day I put forth a paper resp. pdf with what i thought would contain all articles that they send to the redaktion, only to be informed the authors were very annoyed that i left out some of their work that they were especially proud of. I didn't intend to, and i had a bit of talk to do to tell them so they believed me.
+In the morning of the following day i had the idea, to make an addition to email, to keep an eye on emails, and more easily notice if there is some mail missing. I thought, chaining mails much like the Blockchain technique would give me that info.
+So mails could contain sort of a stamp, telling me their sequence.
+This is an old feature, which i liked very much in the old Internet News system, to easily see follow-up messages and their chaining.
+Another thing that i thought might be helpful would be having a receit of a mail (or Quittung, in short), much like a german Einschreiben mit Rückschein in paper.
+The third thing i find missing is getting sort of an introduction (or Intro, for short) to start a Konversation, and maybe an Referenz from a third person (or even institution) to confirm the identity of an otherwise unknown sender.
